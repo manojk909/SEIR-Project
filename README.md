@@ -1,1 +1,1 @@
-# SEIR-course
+# SEIR-Course
