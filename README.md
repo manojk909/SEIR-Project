@@ -5,7 +5,7 @@
 
 #### Problem Statement
 
-1. Write a Python program that takes a URL from the command line and outputs:
+PART-01: Write a Python program that takes a URL from the command line and outputs:
    * Page Title (without HTML tags)
    * Page Body (plain text)
    * All URLs the page links to
@@ -13,7 +13,7 @@
 The webpage is fetched using an HTTP GET request, and HTML parsing is done
 to extract the required content.
 
-2. Extend the program to:
+PART-02: Extend the program to:
    * Count word frequency in the page body (case-insensitive, alphanumeric words)
    * Implement a 64-bit polynomial rolling hash for words (`p = 53`, `m = 2⁶⁴`)
    * Compute Simhash for a document
