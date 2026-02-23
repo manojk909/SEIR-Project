@@ -26,7 +26,7 @@ between two URLs has not been fully implemented.
 How to Run
 --------------------------------------------------
 For webpage fetching:
-python fileName.py <URL>
+python fileName.py URL
 
 For the hashing attempt (partial):
-python fileName.py <URL1> <URL2>
+python fileName.py URL1 URL2
